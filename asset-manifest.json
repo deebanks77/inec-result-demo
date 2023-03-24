@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/inec-result-demo/static/css/main.c7ec3132.css",
+    "main.js": "/inec-result-demo/static/js/main.df6ed65e.js",
+    "static/media/INEC.png": "/inec-result-demo/static/media/INEC.b6a36c7fc196d7f4f481.png",
+    "index.html": "/inec-result-demo/index.html",
+    "main.c7ec3132.css.map": "/inec-result-demo/static/css/main.c7ec3132.css.map",
+    "main.df6ed65e.js.map": "/inec-result-demo/static/js/main.df6ed65e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.df6ed65e.js"
+  ]
+}
